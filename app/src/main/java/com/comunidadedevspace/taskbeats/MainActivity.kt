@@ -20,6 +20,8 @@ class MainActivity : AppCompatActivity() {
 
         taskList.adapter = adapter
 
+        
+
     }
 
     fun openTaskDetailView(task: Task) {
